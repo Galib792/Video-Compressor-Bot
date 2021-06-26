@@ -9,9 +9,9 @@
     "compress",
     "bot"
   ],
-  "success_url": "https://t.me/linux_repo",
-  "website": "https://t.me/Discovery_Updates",
-  "repository": "https://github.com/AbirHasan2005/VideoCompress",
+  "success_url": "https://t.me/Tips_Tik",
+  "website": "https://github.com/eo792",
+  "repository": "https://github.com/eo792/videocompress",
   "env": {
     "ENV": {
       "description": "Setting this to ANYTHING will enable VARs when in ENV mode",
@@ -23,7 +23,7 @@
       "required": true
     },
     "DATABASE_URL": {
-      "description": "Your MongoDB URL for Database. Ask in Support Group: https://t.me/linux_repo",
+      "description": "Your MongoDB URL for Database. Ask in Support Group: https://t.me/Tips_Tik_discussion",
       "value": "",
       "required": true
     },
@@ -61,7 +61,7 @@
       "required": true
     },
     "LOG_CHANNEL": {
-      "description": "Your Bot's Log Channel's Username. For Help ask in @linux_repo",
+      "description": "Your Bot's Log Channel's Username. For Help ask in @Tips_tik_discussion",
       "value": "",
       "required": true
     },
