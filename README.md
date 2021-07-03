@@ -37,7 +37,7 @@ A Telegram Video Compressor Bot By [Tips Tik](https://t.me/Tips_Tik). **This bot
 * `AUTH_USERS` - Put your ID & other Sudo Users IDs. Separate with **Space**. Just for using [Admin Commands](https://github.com/AbirHasan2005/VideoCompress#admin-commands).
 
 ## Optional Configs:
-* `UPDATES_CHANNEL` - Put your Channel Username which you want to do Force Sub. But bot should be Admin in that channel. If got any error or not understand anything than ask in [Support Group](https://t.me/linux_repo).
+* `UPDATES_CHANNEL` - Put your Channel Username which you want to do Force Sub. But bot should be Admin in that channel. If got any error or not understand anything than ask in [Support Group](https://t.me/Tips_Tik_discussion).
 * `COMMAND_EXEC` - `/exec` Command Handler.
 * `COMMAND_STATUS` - `/status` Command Handler.
 * `COMMAND_CANCEL` - `/cancel` Command Handler.
@@ -78,6 +78,6 @@ exec - EXEC 🙄
 </p>
 
 ### Credits:
-* [Jijinr](https://github.com/Jijinr)
-* [SpEcHide](https://github.com/spechide)
-* [AbirHasan2005](https://github.com/AbirHasan2005)
+* [Tips Tik](https://t.me/Tips_Tik)
+* [Tips Tik discussion](https://t.me/Tips_Tik_discussion)
+* [Galib](https://github.com/Galib792)
