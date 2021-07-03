@@ -24,7 +24,7 @@ A Telegram Video Compressor Bot By [Tips Tik](https://t.me/Tips_Tik). **This bot
 [![YouTube](https://img.shields.io/badge/YouTube-Video%20Tutorial-red?logo=youtube)](https://youtu.be/gMRsSqaUkio)
 
 ### Support Group:
-<a href="https://t.me/linux_repo"><img src="https://img.shields.io/badge/Telegram-Join%20Telegram%20Group-blue.svg?logo=telegram"></a>
+<a href="https://t.me/Tips_Tik_Discussion"><img src="https://img.shields.io/badge/Telegram-Join%20Telegram%20Group-blue.svg?logo=telegram"></a>
 
 ## Required Configs:
 * `SESSION_NAME` - Any name of session. Better keep default.
