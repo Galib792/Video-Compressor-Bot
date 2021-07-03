@@ -34,7 +34,7 @@ A Telegram Video Compressor Bot By [Tips Tik](https://t.me/Tips_Tik). **This bot
 * `APP_ID` - Get this from my.telegram.org
 * `API_HASH` - Get this from my.telegram.org
 * `DATABASE_URL` - Your MongoDB Database URL.
-* `AUTH_USERS` - Put your ID & other Sudo Users IDs. Separate with **Space**. Just for using [Admin Commands](https://github.com/AbirHasan2005/VideoCompress#admin-commands).
+* `AUTH_USERS` - Put your ID & other Sudo Users IDs. Separate with **Space**. Just for using [Admin Commands](https://github.com/Galib792/videocompress#admin-commands).
 
 ## Optional Configs:
 * `UPDATES_CHANNEL` - Put your Channel Username which you want to do Force Sub. But bot should be Admin in that channel. If got any error or not understand anything than ask in [Support Group](https://t.me/Tips_Tik_discussion).
