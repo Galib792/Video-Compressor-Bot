@@ -1,4 +1,4 @@
-# VideoCompress
+# Video Compress Bot
 A Telegram Video Compressor Bot By [Tips Tik](https://t.me/Tips_Tik). **This bot works for all!** No need to define each user IDs to use bot. Also works in Group.
 
 ### Special Features:
